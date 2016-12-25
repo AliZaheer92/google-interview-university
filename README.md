@@ -33,8 +33,8 @@ If you want to be a reliability engineer or systems engineer, study more from th
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
+- [x] [What is it?](#what-is-it)
+- [x] [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Get in a Googley Mood](#get-in-a-googley-mood)
 - [Did I Get the Job?](#did-i-get-the-job)
